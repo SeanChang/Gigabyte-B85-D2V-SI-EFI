@@ -1,4 +1,4 @@
 # Gigabyte-B85-D2V-SI-EFI
 技嘉 B85-D2V-SI CPU：E3-1281V3、内存：16GB DDR3 1600MHZ、显卡：GTX1060 3g
 
-#支持显卡 HDMI 输出高清音频
+支持显卡 HDMI 输出高清音频。
